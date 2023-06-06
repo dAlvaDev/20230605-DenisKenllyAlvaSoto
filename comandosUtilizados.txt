@@ -1,0 +1,24 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/dAlvaDev/examen_informatica.git
+git push -u origin main
+mkdir [Carpeta]
+ls 
+touch [Nombre del archivo] 
+rm [Nombre del archivo]
+mv [ruta/archivo1] [ruta/archivo2] 
+clear
+git branch -M main
+touch comandos.txt main.js index.html
+git branch feature01
+git checkout feature01
+Switched to branch 'feature01'
+mkdir Terminal Hardware
+touch Terminal/resumen.txt
+touch Hardware/resumen.txt
+git checkout -b feature02
+cd Terminal/resumen.txt
+git mv comandos.txt comandosUtilizados.txt
+
